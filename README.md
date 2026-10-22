@@ -14,7 +14,7 @@ Students often struggle to navigate dense textbooks, long lecture notes, and rev
 
 ## ✨ Features
 
-- **Document Ingestion & Parsing:** Upload PDFs, TXT, or DOCX files (lecture notes, past papers, syllabus).
+- **"Document Ingestion & Parsing:"** Upload PDFs, TXT, or DOCX files (lecture notes, past papers, syllabus).
 - **Semantic Vector Search:** Leverages dense vector embeddings for accurate concept retrieval.
 - **Context-Grounded Q&A:** Answers queries based strictly on uploaded context to prevent hallucinations.
 - **Source Citation:** Highlights exact source files, pages, and text chunks used to generate answers.
