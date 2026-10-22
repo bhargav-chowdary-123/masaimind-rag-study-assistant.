@@ -1,7 +1,12 @@
-langchain
-chromadb
+fastapi
+uvicorn
 streamlit
-openai
+langchain
+langchain-community
 pypdf
-youtube-transcript-api
+sentence-transformers
+chromadb
+openai
 python-dotenv
+ragas
+datasets
