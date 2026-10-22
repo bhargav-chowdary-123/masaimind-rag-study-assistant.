@@ -1,0 +1,7 @@
+langchain
+chromadb
+streamlit
+openai
+pypdf
+youtube-transcript-api
+python-dotenv
